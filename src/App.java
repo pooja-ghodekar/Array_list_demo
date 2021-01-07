@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) {
-       // System.out.println("change ....");
+        System.out.println("change ....");
         // Custmer customers=new Custmer();
         Scanner sc=new Scanner(System.in);;
         Custmer[] customers =new Custmer[2];
@@ -31,24 +31,7 @@ public class App {
 //        //////////////////////////customers[1].setMob_no(sc.nextLine());
 //        customers[1].setId(sc.nextInt());
 
-//     customers[0].setName("kalyan");
-//        customers[0].setId(4);
-//        customers[0].setMob_no("89887378");
-//
-////        customers[1].setName("some name");
-//        customers[1].setId(5);
-//        customers[1].setMob_no("4289887378");
 
-//        for(int i=0;i<2;i++)
-//        {
-//         Scanner sc=new Scanner(System.in);
-//            System.out.println("Enter Name");
-//            customers[i].setName(sc.nextLine());
-//            System.out.println("Enter Id");
-//            customers[i].setId(sc.nextInt());
-//            System.out.println("Enter mobileno");
-//            customers[i].setMob_no(sc.nextLine());
-//        }
 //        for(int i=0;i<2;i++)
 //        {
 //            System.out.println("custmer detail:-"+customers[i].getName()+"\t"+customers[i].getId()+"\t"+customers[i].getMob_no());
