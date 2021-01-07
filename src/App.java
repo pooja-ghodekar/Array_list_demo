@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) {
-
+        System.out.println("change ....");
         // Custmer customers=new Custmer();
         Scanner sc=new Scanner(System.in);;
         Custmer[] customers =new Custmer[2];
